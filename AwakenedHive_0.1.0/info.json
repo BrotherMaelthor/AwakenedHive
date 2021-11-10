@@ -1,9 +1,0 @@
-{
-	"name": "AwakenedHive",
-	"version": "0.1.0",
-	"title": "Awakened Hive",
-	"author": "BrotherMaelthor",
-	"factorio_version": "1.1",
-	"dependencies": ["base >= 1.1"],
-	"description": "This mod adds a new AI system for the Biters, that sends increasingly stronger Waves against the Player(s) based on Evolution and various internal factors"
-}
